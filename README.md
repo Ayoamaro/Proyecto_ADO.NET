@@ -15,11 +15,11 @@ Puntos obligatorios a tener en cuenta:
 4. Cuarto formulario:
    - Visualizar en un combo los registros de alguna de las tablas, una vez se seleccione un valor que visualice en un **DataGrid** los registros relacionados de otra tabla.
 5. Quinto formulario
-   - Hacer alguna inserción de registro de tabla, de modo que los datos los introduces en varios TextBox, ComboBox, CheckBox…
+   - Hacer alguna inserción de registro de tabla, de modo que los datos los introduces en varios **TextBox**, **ComboBox**, **CheckBox…**
 6. Sexto formulario:
-   - Hacer algún borrado de registro de tabla, mostrar los datos antes del borrado en varios TextBox, CheckBox…
+   - Hacer algún borrado de registro de tabla, mostrar los datos antes del borrado en varios **TextBox**, **CheckBox…**
 7. Séptimo formulario:
-   - Hacer alguna edición de registro de tabla, mostrar los datos anteriores en varios TextBox, ComboBox, CheckBox…
+   - Hacer alguna edición de registro de tabla, mostrar los datos anteriores en varios **TextBox**, **ComboBox**, **CheckBox…**
 8. Octavo formulario:
    - Seleccionar una celda de un **DataGrid** y en otra ventana los registros relacionados indicando también los valores del primer **DataGrid**
    - Utilizar **DataRelations.**
