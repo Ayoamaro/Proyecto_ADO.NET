@@ -3,31 +3,33 @@
 Realiza un proyecto que accederá a la base de datos SQL Server de Equipos de Fútbol de la primera evaluación. Utilizando tecnología ADO .NET. Realizar los **9 formularios**.
 Puntos obligatorios a tener en cuenta:
 
+Menu Principal de la aplicación:
+
+![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/mainMenu.PNG?raw=true)
+
 1. Primer formulario:
    - Poder leer, insertar, eliminar y modificar todos los registros de las diversas tablas.
    - Utilizar **DataSets** y **DataView.**
    - Modificar las cabeceras del **DataGrid**
    - Visualizar texto con la cantidad de filas del DataGrid
    
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/mainMenu.PNG?raw=true)
+   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/tamperLogs.PNG?raw=true)
    
 2. Segundo formulario:
    
    - Utilizar el **DataReader** con **DataGrid**
    
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/tamperLogs.PNG?raw=true)
+   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/readLogs.PNG?raw=true)
    
 3. Tercer formulario:
    
    - Utilizar dentro de un **DataGrid** una de sus columnas que sea un combo
    
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/readLogs.PNG?raw=true)
+   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/comboDataGrid.PNG?raw=true)
    
 4. Cuarto formulario:
    
    - Visualizar en un combo los registros de alguna de las tablas, una vez se seleccione un valor que visualice en un **DataGrid** los registros relacionados de otra tabla.
-   
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/comboDataGrid.PNG?raw=true)
    
    ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/comboSelectedDataGrid.PNG?raw=true)
    
