@@ -11,7 +11,7 @@ Menu Principal de la aplicación:
    - Poder leer, insertar, eliminar y modificar todos los registros de las diversas tablas.
    - Utilizar **DataSets** y **DataView.**
    - Modificar las cabeceras del **DataGrid**
-   - Visualizar texto con la cantidad de filas del DataGrid
+   - Visualizar texto con la cantidad de filas del **DataGrid**
    
    ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/tamperLogs.PNG?raw=true)
    
