@@ -1,4 +1,4 @@
-# Proyecto ADO.NET
+# Proyecto de ADO.NET en Visual Studio
 
 Realiza un proyecto que accederá a la base de datos SQL Server de Equipos de Fútbol de la primera evaluación. Utilizando tecnología ADO .NET. Realizar los **9 formularios**.
 Puntos obligatorios a tener en cuenta:
