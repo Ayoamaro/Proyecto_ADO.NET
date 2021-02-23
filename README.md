@@ -1,4 +1,4 @@
-# Proyecto ADO.NET
+# Proyecto de ADO.NET en Visual Studio
 
 Realiza un proyecto que accederá a la base de datos SQL Server de Equipos de Fútbol de la primera evaluación. Utilizando tecnología ADO .NET. Realizar los **9 formularios**.
 Puntos obligatorios a tener en cuenta:
@@ -11,7 +11,7 @@ Menu Principal de la aplicación:
    - Poder leer, insertar, eliminar y modificar todos los registros de las diversas tablas.
    - Utilizar **DataSets** y **DataView.**
    - Modificar las cabeceras del **DataGrid**
-   - Visualizar texto con la cantidad de filas del DataGrid
+   - Visualizar texto con la cantidad de filas del **DataGrid**
    
    ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/tamperLogs.PNG?raw=true)
    
