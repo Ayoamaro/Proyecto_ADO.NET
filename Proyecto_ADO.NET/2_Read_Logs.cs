@@ -11,16 +11,16 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Leer_Registros : Form
+    public partial class Read_Logs : Form
     {
         DataTable dt;
 
-        public Leer_Registros()
+        public Read_Logs()
         {
             InitializeComponent();
         }
 
-        private void Leer_Registros_Load(object sender, EventArgs e)
+        private void Read_Logs_Load(object sender, EventArgs e)
         {
             Connection cc = new Connection();
             try

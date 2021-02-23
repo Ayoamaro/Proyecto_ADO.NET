@@ -77,11 +77,11 @@
     <Compile Include="7_Update_Logs.Designer.cs">
       <DependentUpon>7_Update_Logs.cs</DependentUpon>
     </Compile>
-    <Compile Include="9_Ejecute_PyF.cs">
+    <Compile Include="9_Execute_PyF.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="9_Ejecute_PyF.Designer.cs">
-      <DependentUpon>9_Ejecute_PyF.cs</DependentUpon>
+    <Compile Include="9_Execute_PyF.Designer.cs">
+      <DependentUpon>9_Execute_PyF.cs</DependentUpon>
     </Compile>
     <Compile Include="5_Create_Logs.cs">
       <SubType>Form</SubType>
@@ -124,8 +124,8 @@
     <EmbeddedResource Include="7_Update_Logs.resx">
       <DependentUpon>7_Update_Logs.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="9_Ejecute_PyF.resx">
-      <DependentUpon>9_Ejecute_PyF.cs</DependentUpon>
+    <EmbeddedResource Include="9_Execute_PyF.resx">
+      <DependentUpon>9_Execute_PyF.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="5_Create_Logs.resx">
       <DependentUpon>5_Create_Logs.cs</DependentUpon>

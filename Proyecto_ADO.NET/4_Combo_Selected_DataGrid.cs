@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Combo_Seleccionar_DataGrid : Form
+    public partial class Combo_Selected_DataGrid : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Leagues, da_Teams;
 
-        public Combo_Seleccionar_DataGrid()
+        public Combo_Selected_DataGrid()
         {
             InitializeComponent();
         }
@@ -57,7 +57,7 @@ namespace Proyecto_ADO.NET
             }
         }
 
-        private void Combo_Seleccionar_DataGrid_Load(object sender, EventArgs e)
+        private void Combo_Selected_DataGrid_Load(object sender, EventArgs e)
         {
             Connection cc = new Connection();
             try

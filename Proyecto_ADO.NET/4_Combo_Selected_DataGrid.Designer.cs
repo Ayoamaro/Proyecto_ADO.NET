@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Combo_Seleccionar_DataGrid
+    partial class Combo_Selected_DataGrid
     {
         /// <summary>
         /// Required designer variable.
@@ -122,7 +122,7 @@ namespace Proyecto_ADO.NET
             this.Controls.Add(this.nameLeagueLBL);
             this.Name = "Combo_Seleccionar_DataGrid";
             this.Text = "Combo para seleccionar un DataGrid";
-            this.Load += new System.EventHandler(this.Combo_Seleccionar_DataGrid_Load);
+            this.Load += new System.EventHandler(this.Combo_Selected_DataGrid_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridTeam)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

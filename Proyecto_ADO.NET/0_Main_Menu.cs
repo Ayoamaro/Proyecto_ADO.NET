@@ -25,7 +25,7 @@ namespace Proyecto_ADO.NET
 
         private void readRecordBTN_Click(object sender, EventArgs e)
         {
-            Leer_Registros readRecord = new Leer_Registros();
+            Read_Logs readRecord = new Read_Logs();
             readRecord.Show();
         }
 
@@ -37,37 +37,37 @@ namespace Proyecto_ADO.NET
 
         private void comboSelectBTN_Click(object sender, EventArgs e)
         {
-            Combo_Seleccionar_DataGrid comboSelect = new Combo_Seleccionar_DataGrid();
+            Combo_Selected_DataGrid comboSelect = new Combo_Selected_DataGrid();
             comboSelect.Show();
         }
 
         private void insertRecordBTN_Click(object sender, EventArgs e)
         {
-            Insercion_Registro insertRecord = new Insercion_Registro();
+            Create_Logs insertRecord = new Create_Logs();
             insertRecord.Show();
         }
 
         private void deleteRecordBTN_Click(object sender, EventArgs e)
         {
-            Borrado_Registro deleteRecord = new Borrado_Registro();
+            Delete_Logs deleteRecord = new Delete_Logs();
             deleteRecord.Show();
         }
 
         private void updateRecordBTN_Click(object sender, EventArgs e)
         {
-            Edicion_Registro updateRecord = new Edicion_Registro();
+            Update_Logs updateRecord = new Update_Logs();
             updateRecord.Show();
         }
 
         private void twoDatagridBTN_Click(object sender, EventArgs e)
         {
-            Dos_DataGrid_Relacionados twoDatagrid = new Dos_DataGrid_Relacionados();
+            Two_DataGrid_Relation twoDatagrid = new Two_DataGrid_Relation();
             twoDatagrid.Show();
         }
 
         private void proceduresFunctionsBTN_Click(object sender, EventArgs e)
         {
-            Ejecutar_PyF proceduresFunctions = new Ejecutar_PyF();
+            Execute_PyF proceduresFunctions = new Execute_PyF();
             proceduresFunctions.Show();
         }
     }

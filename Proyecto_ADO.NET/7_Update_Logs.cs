@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Edicion_Registro : Form
+    public partial class Update_Logs : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Leagues, da_Teams;
 
-        public Edicion_Registro()
+        public Update_Logs()
         {
             InitializeComponent();
         }

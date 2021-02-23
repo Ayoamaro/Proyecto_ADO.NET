@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Dos_DataGrid_Relacionados
+    partial class Two_DataGrid_Relation
     {
         /// <summary>
         /// Required designer variable.
@@ -124,7 +124,7 @@ namespace Proyecto_ADO.NET
             this.Controls.Add(this.leagueLBL);
             this.Name = "Dos_DataGrid_Relacionados";
             this.Text = "Dos DataGrid relacionados (Ligas y Equipos)";
-            this.Load += new System.EventHandler(this.Dos_DataGrid_Relacionados_Load);
+            this.Load += new System.EventHandler(this.Two_DataGrid_Relation_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridTeam)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridLeague)).EndInit();
             this.ResumeLayout(false);

@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Edicion_Registro
+    partial class Update_Logs
     {
         /// <summary>
         /// Required designer variable.

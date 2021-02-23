@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Ejecutar_PyF
+    partial class Execute_PyF
     {
         /// <summary>
         /// Required designer variable.

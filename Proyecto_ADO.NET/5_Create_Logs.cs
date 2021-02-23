@@ -11,17 +11,17 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Insercion_Registro : Form
+    public partial class Create_Logs : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Leagues, da_Teams;
 
-        public Insercion_Registro()
+        public Create_Logs()
         {
             InitializeComponent();
         }
 
-        private void Insercion_Registro_Load(object sender, EventArgs e)
+        private void Create_Logs_Load(object sender, EventArgs e)
         {
             Connection cc = new Connection();
             try

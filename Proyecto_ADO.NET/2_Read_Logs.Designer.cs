@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Leer_Registros
+    partial class Read_Logs
     {
         /// <summary>
         /// Required designer variable.
@@ -87,7 +87,7 @@ namespace Proyecto_ADO.NET
             this.Controls.Add(this.leagueLBL);
             this.Name = "Leer_Registros";
             this.Text = "Leer registros de diferentes tablas";
-            this.Load += new System.EventHandler(this.Leer_Registros_Load);
+            this.Load += new System.EventHandler(this.Read_Logs_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridLeague)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

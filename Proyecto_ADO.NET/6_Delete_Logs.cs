@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Borrado_Registro : Form
+    public partial class Delete_Logs : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Teams;
 
-        public Borrado_Registro()
+        public Delete_Logs()
         {
             InitializeComponent();
         }

@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Ejecutar_PyF : Form
+    public partial class Execute_PyF : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Agreements;
 
-        public Ejecutar_PyF()
+        public Execute_PyF()
         {
             InitializeComponent();
         }
@@ -36,8 +36,8 @@ namespace Proyecto_ADO.NET
                 dataGridProcedure.DataSource = dv_Agreements;
 
                 dataGridProcedure.Columns[0].HeaderText = "Código de Contrato";
-                dataGridProcedure.Columns[1].HeaderText = "DNI/NIE";
-                dataGridProcedure.Columns[2].HeaderText = "Código de Equipo";
+                dataGridProcedure.Columns[1].HeaderText = "Nombre de Equipo";
+                dataGridProcedure.Columns[2].HeaderText = "Nombre de Liga";
                 dataGridProcedure.Columns[3].HeaderText = "Fecha de Inicio";
                 dataGridProcedure.Columns[4].HeaderText = "Fecha de Fin";
                 dataGridProcedure.Columns[5].HeaderText = "Precio Anual";

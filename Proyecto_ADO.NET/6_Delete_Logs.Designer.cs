@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Borrado_Registro
+    partial class Delete_Logs
     {
         /// <summary>
         /// Required designer variable.

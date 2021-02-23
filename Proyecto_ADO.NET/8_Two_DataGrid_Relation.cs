@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Proyecto_ADO.NET
 {
-    public partial class Dos_DataGrid_Relacionados : Form
+    public partial class Two_DataGrid_Relation : Form
     {
         DataSet ds = new DataSet();
         SqlDataAdapter da_Leagues, da_Teams;
@@ -19,12 +19,12 @@ namespace Proyecto_ADO.NET
         DataView dv_Leagues = new DataView();
         DataRowView currentRowView;
 
-        public Dos_DataGrid_Relacionados()
+    public Two_DataGrid_Relation()
         {
             InitializeComponent();
         }
 
-        private void Dos_DataGrid_Relacionados_Load(object sender, EventArgs e)
+        private void Two_DataGrid_Relation_Load(object sender, EventArgs e)
         {
             Connection cc = new Connection();
             try

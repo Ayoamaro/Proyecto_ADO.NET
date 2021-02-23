@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_ADO.NET
 {
-    partial class Insercion_Registro
+    partial class Create_Logs
     {
         /// <summary>
         /// Required designer variable.
@@ -144,7 +144,7 @@ namespace Proyecto_ADO.NET
             this.Controls.Add(this.nameTeamLBL);
             this.Name = "Insercion_Registro";
             this.Text = "Inserción de un registro";
-            this.Load += new System.EventHandler(this.Insercion_Registro_Load);
+            this.Load += new System.EventHandler(this.Create_Logs_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
