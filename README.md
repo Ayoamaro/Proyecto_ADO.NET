@@ -25,7 +25,7 @@ Menu Principal de la aplicación:
    
    - Utilizar dentro de un **DataGrid** una de sus columnas que sea un combo
    
-   [](https://imgur.com/ddPRwhN)
+   [](https://i.imgur.com/ddPRwhN.mp4)
    
 4. Cuarto formulario:
    
