@@ -19,7 +19,7 @@ Menu Principal de la aplicación:
    
    - Utilizar el **DataReader** con **DataGrid**
    
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/readLogs.PNG?raw=true)
+   ![](https://media.giphy.com/media/Gp20SUo9ZsIDhLmZyZ/giphy.gif)
    
 3. Tercer formulario:
    
