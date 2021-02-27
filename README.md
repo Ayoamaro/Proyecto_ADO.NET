@@ -19,13 +19,13 @@ Menu Principal de la aplicación:
    
    - Utilizar el **DataReader** con **DataGrid**
    
-   ![](https://media.giphy.com/media/Gp20SUo9ZsIDhLmZyZ/giphy.gif)
+   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/readLogs.PNG?raw=true)
    
 3. Tercer formulario:
    
    - Utilizar dentro de un **DataGrid** una de sus columnas que sea un combo
    
-   ![](https://media.giphy.com/media/TdtUMbyQBpTYulsh4D/giphy.gif)
+   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/comboDataGrid.PNG?raw=true)
    
 4. Cuarto formulario:
    
