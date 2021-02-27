@@ -25,7 +25,7 @@ Menu Principal de la aplicación:
    
    - Utilizar dentro de un **DataGrid** una de sus columnas que sea un combo
    
-   ![](https://github.com/Ayoamaro/Proyecto_ADO.NET/blob/main/docs/images/comboDataGrid.PNG?raw=true)
+   [](https://imgur.com/ddPRwhN)
    
 4. Cuarto formulario:
    
